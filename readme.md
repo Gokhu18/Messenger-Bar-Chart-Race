@@ -3,13 +3,12 @@ Pour lancer le Notebook juste besoin du fichier .zip généré par Facebook
 ![Téléchargement du fichier ZIP](https://github.com/sofiane-fourati/Messenger-Bar-Chart-Race/blob/master/T%C3%A9l%C3%A9chargement%20fichier.PNG)
 
 Requirements:
-
-Pandas
-JSON
-Numpy
-Zipfile
-OS
-Datetime
-Re
-Colorsys
-Matplotlib
+-Pandas
+-JSON
+-Numpy
+-Zipfile
+-OS
+-Datetime
+-Re
+-Colorsys
+-Matplotlib
